@@ -1,5 +1,5 @@
 # sdet_squadap
-Automation Using Cypress for Task squadap
+Automation Using Cypress for Task squadap for Question number 1 and Question Number 3
 
 # Guide using Automation Cypress
 1. Clone My repo with Query Git Clone (Link My Repo)
