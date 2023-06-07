@@ -18,9 +18,9 @@ describe('example to-do app', () => {
 
   it('Proses Registrasi', () => {
     cy.contains('Sign Up').click({force:true})
-    cy.get('#user_merchant_name').type('Merchant Testing Qa +1')
-    cy.get('#user_full_name').type('Full Name Testing Qa +2')
-    cy.get('#user_email').type('testing+3@gmail.com')
+    cy.get('#user_merchant_name').type('Merchant Testing Qa +4')
+    cy.get('#user_full_name').type('Full Name Testing Qa +4')
+    cy.get('#user_email').type('testing+4@gmail.com')
     cy.get('#user_phone').type('87542018886')
     cy.get('#user_business_type_corporate').click()
     cy.get('#user_password').type('A!1qwertyuiop')
